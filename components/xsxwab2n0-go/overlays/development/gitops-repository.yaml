@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xsxwab2n0-go-gitops-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/xsxwab2n0-go-gitops
